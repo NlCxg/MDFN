@@ -1,4 +1,9 @@
-1. While testing the model, run test.py
+Testing：
+run test.py
 
-2. While training the model 
-   
+Training：
+1. download the training dataset
+   Roadscene：
+   link：    https://pan.baidu.com/s/1Fea65DIDnTurRi4zXPmouQ 
+   password：2022
+2. run train.py
